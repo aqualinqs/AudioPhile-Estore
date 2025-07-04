@@ -1,4 +1,4 @@
-# AudioPhile-Estore.github.io
+# AudioPhile-Estore
 
 # 🛒 AudioPhile Estore - A Full-Stack E-Commerce Project
 
